@@ -27,8 +27,9 @@ This is a simple, beginner-friendly site built using **HTML5** and **CSS3**. It 
 ## 🔗 How to View
 
 You can access my portfolio here:
-👉 [...)
+🌍 Live Website:https: https://lnkd.in/giB-Wxfk
 
+💻 GitHub Repohttps: https://lnkd.in/gHc-BpZt
 ---
 
 ## 🤝 Contributing
