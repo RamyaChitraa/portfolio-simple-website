@@ -27,11 +27,11 @@ This is a simple, beginner-friendly site built using **HTML5** and **CSS3**. It 
 ## 🔗 How to View
 
 You can access my portfolio here:
-🌍 Live Website:https: https://lnkd.in/giB-Wxfk
 
-💻 GitHub Repohttps: https://lnkd.in/gHc-BpZt
----
+🌍 Live Website:https://portfolio-simple-website-6gw2.vercel.app/
 
+💻 GitHub Repohttps: 
+https://github.com/RamyaChitraa/portfolio-simple-website
 ## 🤝 Contributing
 
 If you'd like to contribute or suggest improvements, please open an **issue** or **pull request**.
